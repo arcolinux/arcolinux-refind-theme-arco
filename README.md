@@ -1,1 +1,1 @@
-# ArcoLinux-qt5-plasma
+# ArcoLinux-refind-theme-arco
